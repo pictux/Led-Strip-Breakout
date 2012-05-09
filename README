@@ -1,4 +1,6 @@
+Eagle_Files folder:
 Schemas for building your own Led Strip (single channel / RGB) driver pcb, based on ULN2003.
+PCB is only one layer, so it's easy to realize also with the toner transfer tecnique
 
 There are few variant:
 
@@ -8,10 +10,12 @@ up to 6 single channel Led Strip.
 - ULN2003_DoubleStrip
 up to 2 RGB Led Strip.
 
-Following with ThinkerKit! connector, to use with ThikerKit! Sensor Shield (http://tinkerkit.com/)
+Following with TinkerKit connector, to use with TinkerKit Sensor Shield (http://tinkerkit.com/)
 - ULN2003_SingleStrip_ThinkerKit
-1 single RGB strip with ThinkerKit! connector.
+1 single RGB strip with TinkerKit connector.
 
 - ULN2003_DoubleStrip_ThinkerKit
-up to 2 RGB Led Strip with ThinkerKit! connector.
+up to 2 RGB Led Strip with TinkerKit connector.
 
+Arduino_Code folder:
+to upload
