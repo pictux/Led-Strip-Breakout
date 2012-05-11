@@ -1,6 +1,6 @@
 Eagle_Files folder:
 Schemas for building your own Led Strip (single channel / RGB) driver pcb, based on ULN2003.
-PCB is only one layer, so it's easy to realize also with the toner transfer tecnique
+PCB is one layer only, so it's easy to realize also with the toner transfer tecnique
 
 There are few variant:
 
