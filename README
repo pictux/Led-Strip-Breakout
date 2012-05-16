@@ -1,3 +1,8 @@
+A simple ULN2003 based breakout board for 12V led strip (both RGB and single channel)
+
+Photos of the boards can be found here:
+https://plus.google.com/photos/101137849928958778147/albums/5743070348968790241
+
 Eagle_Files folder:
 Schemas for building your own Led Strip (single channel / RGB) driver pcb, based on ULN2003.
 PCB is one layer only, so it's easy to realize also with the toner transfer tecnique
